@@ -1,4 +1,5 @@
-# (./logo.png) Dodolan — Platform Terintegrasi Pengelolaan Warung & UMKM Nusantara
+![Logo](./logo.png). 
+# Dodolan — Platform Terintegrasi Pengelolaan Warung & UMKM Nusantara
 > **Kelola Warung Lebih Praktis, Kembangkan Usaha Tanpa Ribet.**  
 > Karya ini diajukan untuk **Lomba UI/UX Design INTECFEST (SINTECHFEST) 2026** — *"Digital Evolution: From Ideas to Innovation"*
 
@@ -9,7 +10,7 @@
 
 ## 🔗 Tautan Penting (Quick Links)
 * 🎨 **[Buka Prototipe Interaktif (Figma Prototype)](MASUKKAN_LINK_PROTOTYPE_FIGMA_DI_SINI)** *(Akses Publik)*
-* 📐 **[Buka File Desain (Figma View)](MASUKKAN_LINK_FILE_FIGMA_DI_SINI)**
+* 📐 **[Buka File Desain (Figma View)](https://www.figma.com/design/HkGjb4f4MXoSSZpFe4Qs4d/Dodolan?node-id=91-7255&t=KRUOzYjslYBw0Zh3-1)**
 * 📄 **[Unduh Poster / Frame Utama (PDF)](./Poster_Dodolan.pdf)** *(Sesuaikan dengan nama file PDF kamu)*
 
 ---
