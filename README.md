@@ -35,11 +35,11 @@ Mengurus pesanan, memantau ketersediaan stok barang, mencatat arus kas keuangan,
 
 ## ✨ Daftar Fitur Utama & Cara Penggunaan (User Flow)
 
-![Logo](./LoginPage.png). 
 ### 1. Halaman Utama (Landing Page), Autentikasi & Pusat Bantuan
 * **Fungsi:** Mengenalkan fitur utama Dodolan kepada calon pengguna baru, menyediakan akses masuk/pendaftaran akun yang mudah, serta panduan kendala teknis di Pusat Bantuan.
 * **Cara Penggunaan (Alur):**
   `Landing Page Dodolan` ➔ Klik `Gabung / Masuk` ➔ Pilih `Login` (Email/Google), `Register` (Daftar Akun Baru), atau `Lupa Password` ➔ Masuk ke halaman utama aplikasi (`Dashboard`). Pengguna juga dapat mengakses menu `Bantuan` untuk mencari panduan berdasarkan topik atau FAQ.
+![Logo](./LoginPage.png). 
 
 ![Logo](./Dashboard.png). 
 ### 2. Dashboard Usaha (Ringkasan Harian Warung)
