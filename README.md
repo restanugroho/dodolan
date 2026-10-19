@@ -1,8 +1,8 @@
-# 🏪 Dodolan — Platform Terintegrasi Pengelolaan Warung & UMKM Nusantara
+# (./logo.png) Dodolan — Platform Terintegrasi Pengelolaan Warung & UMKM Nusantara
 > **Kelola Warung Lebih Praktis, Kembangkan Usaha Tanpa Ribet.**  
 > Karya ini diajukan untuk **Lomba UI/UX Design INTECFEST (SINTECHFEST) 2026** — *"Digital Evolution: From Ideas to Innovation"*
 
-![Preview Desain Dodolan](./Group%2010.png)
+![Preview Desain Dodolan](./preview.png)
 *(Catatan: Sesuaikan nama file gambar di atas jika kamu mengubah nama file gambarnya di dalam repositori)*
 
 ---
