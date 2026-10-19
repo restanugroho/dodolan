@@ -35,43 +35,43 @@ Mengurus pesanan, memantau ketersediaan stok barang, mencatat arus kas keuangan,
 
 ## ✨ Daftar Fitur Utama & Cara Penggunaan (User Flow)
 
-![Logo](./landing.png). 
+![Logo](./LoginPage.png). 
 ### 1. Halaman Utama (Landing Page), Autentikasi & Pusat Bantuan
 * **Fungsi:** Mengenalkan fitur utama Dodolan kepada calon pengguna baru, menyediakan akses masuk/pendaftaran akun yang mudah, serta panduan kendala teknis di Pusat Bantuan.
 * **Cara Penggunaan (Alur):**
   `Landing Page Dodolan` ➔ Klik `Gabung / Masuk` ➔ Pilih `Login` (Email/Google), `Register` (Daftar Akun Baru), atau `Lupa Password` ➔ Masuk ke halaman utama aplikasi (`Dashboard`). Pengguna juga dapat mengakses menu `Bantuan` untuk mencari panduan berdasarkan topik atau FAQ.
 
-![Logo](./dashboard.png). 
+![Logo](./Dashboard.png). 
 ### 2. Dashboard Usaha (Ringkasan Harian Warung)
 * **Fungsi:** Menampilkan ringkasan performa warung hari ini secara sekilas, meliputi total penjualan, jumlah transaksi, peringatan stok tipis, laba bersih, grafik penjualan & pengeluaran mingguan, daftar pesanan terbaru (QRIS/Tunai/Tempo), serta *insight* otomatis dari Dodolan AI.
 * **Cara Penggunaan (Alur):**
   Buka menu `Dashboard` di bilah sisi kiri ➔ Pantau metrik ringkasan harian & grafik arus kas ➔ Cek kartu `Stok Tipis` untuk langsung mengatur stok ➔ Klik tombol `+ Transaksi Baru` di bagian atas untuk mencatat penjualan baru.
 
-![Logo](./produk.png).
+![Logo](./Produk.png).
 ### 3. Manajemen Produk & Stok (`Produk & Stok`)
 * **Fungsi:** Mengelola seluruh katalog produk warung beserta status ketersediaannya (*Stok Aman*, *Stok Menipis*, *Stok Habis*) lengkap dengan kode SKU, kategori, dan harga jual agar pedagang tidak kehabisan barang laris.
 * **Cara Penggunaan (Alur):**
   Buka menu `Produk & Stok` ➔ Filter atau cari barang melalui kolom pencarian/kategori ➔ Klik tombol `+ Tambah Produk` ➔ Isi formulir modal *Tambah Produk* (Nama produk, Kode SKU, Kategori, Harga jual, Satuan, Stok awal) ➔ Klik `Simpan Produk`.
 
-![Logo](./keuangan.png). 
+![Logo](./Keuangan.png). 
 ### 4. Pencatatan & Laporan Keuangan (`Keuangan`)
 * **Fungsi:** Mencatat dan memantau uang masuk serta uang keluar agar pembukuan warung tetap rapi. Dilengkapi ringkasan pemasukan, pengeluaran, laba bersih, grafik arus kas harian, persentase pengeluaran per kategori, serta tabel riwayat transaksi yang bisa diekspor.
 * **Cara Penggunaan (Alur):**
   Buka menu `Keuangan` ➔ Pilih filter periode (`Hari ini`, `7 hari terakhir`, `Bulan ini`) ➔ Klik tombol `+ Catat Pemasukan` atau `Catat Pengeluaran` ➔ Masukkan nominal, tanggal, kategori, keterangan, dan metode pembayaran (`Tunai`, `Transfer`, `QRIS`) ➔ Klik `Simpan Pemasukan` atau klik `Ekspor Laporan` untuk mengunduh rekapitulasi.
 
-![Logo](./dodolanai.png). 
+![Logo](./DodolanAI.png). 
 ### 5. Asisten Usaha Pintar (`Dodolan AI`)
 * **Fungsi:** Teman pintar usaha untuk membantu pedagang memahami statistik penjualan tanpa pusing membaca angka rumit. Memberikan analisis lonjakan penjualan, pengingat barang yang wajib dibeli sebelum belanja stok, pengingat piutang/pesanan belum lunas, serta rekomendasi ide promo.
 * **Cara Penggunaan (Alur):**
   Buka menu `Dodolan AI` ➔ Ketik pertanyaan di kolom obrolan atau pilih tombol cepat (*"Cek laba hari ini"*, *"Prioritas restock"*, *"Ide promo sore"*) ➔ Lihat analisis instan beserta daftar rekomendasi tindakan (`Yang bisa dilakukan`) di panel sebelah kanan.
 
-![Logo](./studio.png). 
+![Logo](./StudioKonten.png). 
 ### 6. Studio Konten & Promosi Lintas Platform (`Studio Konten`)
 * **Fungsi:** Membantu pedagang membuat konten promosi menggunakan *template* siap pakai, memantau performa *live streaming*, dan menjadwalkan *posting* otomatis ke TikTok, Instagram, serta Status WhatsApp dari satu tempat.
 * **Cara Penggunaan (Alur):**
   Buka menu `Studio Konten` ➔ Pantau performa di bagian `Pantau live & postingan` ➔ Pilih desain di bagian `Pilih tampilan konten` (*Template* Promo/Produk Baru) ➔ Pilih saluran distribusi (`Status WhatsApp` / `Posting Instagram`) atau klik `+ Jadwal baru` pada bagian `Atur postingan lintas platform`.
 
-![Logo](./toko.png). 
+![Logo](./Toko.png). 
 ### 7. Pratinjau Katalog Digital Warung (`Preview Toko`)
 * **Fungsi:** Menampilkan halaman katalog digital warung (contoh: *Warung Berkah Jaya*) sebagaimana dilihat oleh pelanggan, lengkap dengan informasi alamat, jam operasional, status buka/tutup, serta daftar menu populer beserta harganya.
 * **Cara Penggunaan (Alur):**
