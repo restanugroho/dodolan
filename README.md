@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 Tautan Penting (Quick Links)
-* 🎨 **[Buka Prototipe Interaktif (Figma Prototype)](https://www.figma.com/proto/HkGjb4f4MXoSSZpFe4Qs4d/Dodolan?node-id=91-7251&p=f&t=eft233KIKNyzHcDQ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)** *(Akses Publik)*
+* 🎨 **[Buka Prototipe Interaktif (Figma Prototype)](https://www.figma.com/proto/HkGjb4f4MXoSSZpFe4Qs4d/Dodolan?node-id=137-2878&p=f&t=LWyW0WQqhkDmZnTD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=137%3A2878&show-proto-sidebar=1)** *(Akses Publik)*
 * 📐 **[Buka File Desain (Figma View)](https://www.figma.com/design/HkGjb4f4MXoSSZpFe4Qs4d/Dodolan?node-id=91-7255&t=KRUOzYjslYBw0Zh3-1)**
 * 📄 **[Unduh Poster / Frame Utama (PDF)](./poster.pdf)** *(Sesuaikan dengan nama file PDF kamu)*
 
